@@ -1,4 +1,4 @@
-# CMPS 2200  Recitation 11
+# CMPS 2200  Recitation 09
 
 In this lab we'll investigate minimum spanning tree algorithms.
 
